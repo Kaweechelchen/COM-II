@@ -289,3 +289,25 @@ LAGE:
 **E**rweiterte Erkundung
 
 Sehen, Hören, Fühlen Check
+
+## Bereiche
+- Unmittelbarer Gefahrenbereich
+- Gesicherter Bereich
+- Sicherer Bereich
+
+# UVA
+
+## Anfahrt
+- Aufpassen dass alle Schranken nach dem Passieren wieder geschlossen werden.
+- Einfahrt in gesperrte Röhre nur nach Freigabe des CSU 112.
+- Grundsätzlich ist bei der Einfahrt in den Tunnel mit Personen auf der Fahrbahn sowie mit Fahrzeugen im Gegenverkehr zu rechnen.
+
+## Farbliche Kennzeichnung
+- Grün: Ausgänge
+- Blau: Wasser
+- Orange: Kennzeichnung von Fahrzeugen mit Personen im inneren
+
+## Prioritäten
+1. Erkundung (Personen werden markiert, aber nicht vom Erkundungstrupp gerettet)
+2. Brandbekämpfung
+3. Suchen und retten
