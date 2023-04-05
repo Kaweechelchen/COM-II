@@ -266,16 +266,16 @@ Genug Trinkwasser parat heben (1 Liter/h)
 
 # Radioaktivität
 
-GAMS:
-Gefahr erkennen
-Abstand halten
-Menschenrettung
-Spezialkräfte anfordern
+## GAMS-Regel
+- **G**efahr erkennen
+- **A**bstand halten
+- **M**enschenrettung
+- **S**pezialkräfte anfordern
 
-3-A Regel:
-Abstand
-Aufenthaltszeit
-Abschirmnung
+## 3-A Regel:
+- Abstand
+- Aufenthaltszeit
+- Abschirmnung
 
 Niemand darf die Einsatzstelle verlassen
 
@@ -309,5 +309,46 @@ Sehen, Hören, Fühlen Check
 
 ## Prioritäten
 1. Erkundung (Personen werden markiert, aber nicht vom Erkundungstrupp gerettet)
-2. Brandbekämpfung
+2. Brandbekämpfung (und Strukturkühlung)
 3. Suchen und retten
+
+## Nummerierung
+Die Nummerierung der Querschläge und Notbuchten sind immer von der Stadt Luxemburg aus Nummeriert.
+
+## Frittebud (coffret pompiers)
+Mit dem Schlüssel in dem **roten** Feld kann die manuelle Steuerung aktiviert werden.
+Man kann sich hier alle Kameras ansehen, sehen ob Personen in einer Notbucht sind,...
+
+## CSec Fragen
+- In welcher Reihe kam es zum Ereignis?
+- Wo befindet sich das Feuer in der Tiefgarage?
+- Luftströmung?
+- Besondere Gefahrenquellen?
+- Wie viele Fahrzeuge sind in der Tiefgarage durch das Feuer betroffen?
+- Was brannte? (PKW, Lagerraum, Keller,...)
+- Löschwasserentnahme?
+- Personen in Gefahr?
+- Situationsveränderung?
+
+# Gefahrenstoffeinsätze
+## Die 3-A Regel:
+- **A**bstand halten (so groß wie möglich)
+- **A**ufenthaltszeit (so kurz wie möglich)
+- **A**bschirmung (so gut wie möglich)
+
+### Gefahr erkennen
+- Kemler Zahl
+- UN-Nummer
+- Gefahrendiamant
+- Beschriftung
+- Verhalten von Menschen die in kontakt waren
+
+### Abstand Halten
+- 50 Meter Radius = Gefahrenbereich
+- 100 Meter Radius = Absperrbereich
+
+### Menschenrettung
+- Kontakt mit Gefahrenstoff vermeiden
+- Notdekontamination ausführen
+
+### Spezialkräfte alarmieren
