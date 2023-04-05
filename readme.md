@@ -204,6 +204,40 @@ Prioritäten der Schadensbegrenzung:
 Ofkierzungen:
 UTM: Universal Transverse Mercator
 
+# Türöffnung
+- KESO! Kritt ee net futti
+- 27mm dierf een era fräsen
+- RC1 = No time
+- RC2 = 3 Min
+- RC3 = 5 Min
+- Gesetzliche Grundlagen (Wohung ist unverletzlich)
+
+# Aufzugkunde
+- Wichtige bestandteile
+- Korb
+- Gegengewicht
+
+- GRIMP ruffen wann eppes am Schacht muss gemaach ginn
+- Ofsécherung vum Kuerf no ënnen an uewen
+- Keen bei de Schacht dee net mat der Héischt eenz gëtt
+- DMO
+
+- Notaus wann et muss sinn,
+- Bei moderne lifter wann ë steet
+- Bei alen wann ee wëll handbedriwwe fueren
+
+- Wann een d’Diren opmécht ëmmer
+
+# NOVI
+- Wichteg, extended message ambiance
+- Organisatioun vun de verschidden point rassemblement
+- Organisatioun weider moyenen
+
+1. 360° erkundung
+2. Frontalansicht
+3. Noperen / Besitzer fragen
+4. Pläne (Laufkarten)
+
 # Vegetationsbrandbekämpfung
 Ofkierzung:
 LACES:
@@ -301,6 +335,7 @@ Sehen, Hören, Fühlen Check
 - Aufpassen dass alle Schranken nach dem Passieren wieder geschlossen werden.
 - Einfahrt in gesperrte Röhre nur nach Freigabe des CSU 112.
 - Grundsätzlich ist bei der Einfahrt in den Tunnel mit Personen auf der Fahrbahn sowie mit Fahrzeugen im Gegenverkehr zu rechnen.
+- Immer langsam fahren
 
 ## Farbliche Kennzeichnung
 - Grün: Ausgänge
@@ -313,9 +348,9 @@ Sehen, Hören, Fühlen Check
 3. Suchen und retten
 
 ## Nummerierung
-Die Nummerierung der Querschläge und Notbuchten sind immer von der Stadt Luxemburg aus Nummeriert.
+Die Nummerierung der Querschläge (all 275m) und Notbuchten (all 100m, Kein Überdruck) sind immer von der Stadt Luxemburg aus Nummeriert.
 
-## Frittebud (coffret pompiers)
+## Frittebud (coffret pompiers) (Portalzone)
 Mit dem Schlüssel in dem **roten** Feld kann die manuelle Steuerung aktiviert werden.
 Man kann sich hier alle Kameras ansehen, sehen ob Personen in einer Notbucht sind,...
 
@@ -352,3 +387,20 @@ Man kann sich hier alle Kameras ansehen, sehen ob Personen in einer Notbucht sin
 - Notdekontamination ausführen
 
 ### Spezialkräfte alarmieren
+
+# Tiefbau
+- 60cm vun der Kant buedem opleeën
+- Drock ronderwm d’Grouf verdeelen mat Brieder/Schalplatten…
+- Iwwer Eck bei d’Grouf kommen
+- Ofstäipen
+- Kugelofbroch
+- Rëss erkennen
+- Erschütterungen/Aarbechten stoppen
+- Traubenbildung verhënneren
+- Bullhorn reminder
+- Aarbechtsberäich (rout, giel, greng)
+- In/Out regelung
+- 50m ofspären
+- Material vum Chantier notzen, machiniste a chef chantier notzen fir de Problem ze léisen
+- Beliichtung organiséieren
+- Personal a Material nofroen
