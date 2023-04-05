@@ -217,15 +217,16 @@ UTM: Universal Transverse Mercator
 - Korb
 - Gegengewicht
 
+
 - GRIMP ruffen wann eppes am Schacht muss gemaach ginn
 - Ofsécherung vum Kuerf no ënnen an uewen
 - Keen bei de Schacht dee net mat der Héischt eenz gëtt
 - DMO
 
-- Notaus wann et muss sinn,
+
+**Notaus** wann et muss sinn,
 - Bei moderne lifter wann ë steet
 - Bei alen wann ee wëll handbedriwwe fueren
-
 - Wann een d’Diren opmécht ëmmer
 
 # NOVI
